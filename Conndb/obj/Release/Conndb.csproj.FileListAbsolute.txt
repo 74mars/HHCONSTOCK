@@ -1,0 +1,8 @@
+E:\HHProject\conStock\Conndb\bin\Release\Conndb.dll
+E:\HHProject\conStock\Conndb\bin\Release\Conndb.pdb
+E:\HHProject\conStock\Conndb\bin\Release\Oracle.ManagedDataAccess.dll
+E:\HHProject\conStock\Conndb\obj\Release\Conndb.csprojAssemblyReference.cache
+E:\HHProject\conStock\Conndb\obj\Release\Conndb.csproj.CoreCompileInputs.cache
+E:\HHProject\conStock\Conndb\obj\Release\Conndb.csproj.CopyComplete
+E:\HHProject\conStock\Conndb\obj\Release\Conndb.dll
+E:\HHProject\conStock\Conndb\obj\Release\Conndb.pdb
